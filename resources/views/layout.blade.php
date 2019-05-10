@@ -10,5 +10,6 @@
 <body>
     @yield ('content')
 
+    <a href="/">Home</a>
 </body>
 </html>
